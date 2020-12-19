@@ -6,14 +6,14 @@ WearCare is **personalized health care based reminder system** in a wearable.
 
 # What is it?
 
-Health care is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Health care becomes more important when people reach a certain age and in that age following their health condition without proper assistance is becoming tedious.
+Healthcare is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Healthcare becomes more important when people reach a certain age and in that age following their health condition without proper assistance is becoming tedious.
 
 There are 3 main factors that are very important from a health perspective.
 - Follow the medications.
 - Continuous monitoring of vital parameters Eg., Heart rate, ECG
 - Better sleep
 
-In many cases, these factors are getting missed due to **no personalized health care based reminder system** or sometimes might be due to laziness. As a solution, an app is designed called **WearCare** (wearable app), that a user is generally a click away from the care. Nowadays, wearables have become more close to humans than mobile phones and possess a variety of capabilities that can assist old/disabled people. 
+In many cases, these factors are getting missed due to **no personalized healthcare based reminder system** or sometimes might be due to laziness. As a solution, an app is designed called **WearCare** (wearable app), that a user is generally a click away from the care. Nowadays, wearables have become more close to humans than mobile phones and possess a variety of capabilities that can assist old/disabled people. 
 
 Wear device on the user’s wrist, makes it perfect piece of hardware for the healthcare use cases. To be concise, the technology in hands. Wear the care now. So;
 
