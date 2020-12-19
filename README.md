@@ -20,6 +20,7 @@ Wear devices on the user’s wrist, makes it the perfect piece of hardware for t
 - It helps to keep the medication properly with reminders and refills with auto order too.
 - It helps doctors to update the medications remotely based on the patient reports.
 - It assures that the doctor gets updates daily about the health condition of their patients. (Heart rate, Medication status, Sleep quality, Walking)
+- It helps for realtime sync. Compare to simple todo, remainder and tracking app, the core essence here is integrating with healthcare realtime apis and add it as wearable.
 
 # How can it be done?
 This can be achieved with,
