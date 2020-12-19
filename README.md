@@ -1,21 +1,21 @@
 # WearCare - Make the smart watch more smarter with care
-WearCare is a small start to integrate healthcare features into wearables.
+WearCare is **personalized health care based reminder system** in a wearable.
 <p align="center">
   <img src="https://github.com/sugumarworkspace/wearcare/blob/main/0_wearcare_logo.jpeg" width="256" title="Github Logo">
 </p>
 
 # What is it?
 
-Health care is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Health care becomes more important when people reach a certain age and in that age following their health condition without proper guided assistance is becoming tedious.
+Health care is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Health care becomes more important when people reach a certain age and in that age following their health condition without proper assistance is becoming tedious.
 
 There are 3 main factors that are very important from a health perspective.
 - Follow the medications.
 - Continuous monitoring of vital parameters Eg., Heart rate, ECG
 - Better sleep
 
-In many cases, these factors are getting missed due to no personal reminder system that is very close or sometimes might be due laziness. As a solution, we are placing an app called wearcare (wearable app) very close to the user, meaning that a user is generally a click away from the data. Nowadays, wearables have become more close to humans than mobile phones and possess a variety of capabilities and can assist old or disabled people in health care.
+In many cases, these factors are getting missed due to **no personalized health care based reminder system** or sometimes might be due to laziness. As a solution, an app is designed called **WearCare** (wearable app), that a user is generally a click away from the care. Nowadays, wearables have become more close to humans than mobile phones and possess a variety of capabilities that can assist old/disabled people. 
 
-To be concise, the technology in hands. Wear the care now. So;
+Wear device on the user’s wrist, makes it perfect piece of hardware for the healthcare use cases. To be concise, the technology in hands. Wear the care now. So;
 
 - It helps to keep the medication properly with reminders and refills with auto order too.
 - It helps doctors to update the medications remotely based on the patient reports.
@@ -57,8 +57,8 @@ Wearcare alert for walking and strectching based on your routines
   <img src="https://github.com/sugumarworkspace/wearcare/blob/main/7_walk_alert.png" width="256" title="Github Logo">
 </p>
 
-# v1.1 [Next for wearcare]
-- Improve the prototype with integrating tech stacks
+# v1.1 [Wearcare next]
+- Improve the prototype with tech stacks integration
 - Healthcare domain APIs integration
 
 # v1.0
