@@ -44,18 +44,16 @@ Wearcare in the home screen with quick and useful alerts/infomation like next me
 </p>
 Tap the wearcare shortcut and flip to get detailed information about the medication, heart rate, sleep pattern and buy medicines alert. 
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/4_wearcare_home_screen.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/4_wearcare_homescreen.png" width="256" title="Github Logo">
 </p>
 Single tap, send the health vital details in sync with your doctors through cloud.
 <p align="left">
   <img src="https://github.com/sugumarworkspace/wearcare/blob/main/5_wearcare_sync.png" width="256" title="Github Logo">
-</p>
-<p align="left">
-  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/5_wearcare_sync_success.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/6_wearcare_sync_success.png" width="256" title="Github Logo">
 </p>
 Wearcare alert for walking and strectching based on your routines
 <p align="left">
-  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/5_wearcare_sync.png" width="256" title="Github Logo">
+  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/7_walk_alert.png" width="256" title="Github Logo">
 </p>
 
 # v1.1 [Next for wearcare]
