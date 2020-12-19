@@ -1,6 +1,8 @@
 # WearCare - Make the smart watch more smarter with care
 WearCare is a small start to integrate healthcare features into wearables.
-
+<p align="center">
+  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/0_wearcare_logo.jpeg" width="256" title="Github Logo">
+</p>
 # What is it?
 
 Health care is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Health care becomes more important when people reach a certain age and in that age following their health condition without proper guided assistance is becoming tedious.
@@ -11,9 +13,7 @@ There are 3 main factors that are very important from a health perspective.
 - Better sleep
 
 In many cases, these factors are getting missed due to no personal reminder system that is very close or sometimes might be due laziness. As a solution, we are placing an app called wearcare (wearable app) very close to the user, meaning that a user is generally a click away from the data. Nowadays, wearables have become more close to humans than mobile phones and possess a variety of capabilities and can assist old or disabled people in health care.
-<p align="left">
-  <img src="https://github.com/sugumarworkspace/wearcare/blob/main/0_wearcare_logo.jpeg" width="256" title="Github Logo">
-</p>
+
 To be concise, the technology in hands. Wear the care now. So;
 
 - It helps to keep the medication properly with reminders and refills with auto order too.
