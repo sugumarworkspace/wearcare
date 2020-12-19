@@ -59,7 +59,7 @@ Wearcare alert for walking and strectching based on your routines
 
 # v1.1 [Wearcare next]
 - Improve the prototype with tech stacks integration
-- Healthcare domain APIs integration
+- Healthcare domain clinical APIs integration
 
 # v1.0
 Working prototype
