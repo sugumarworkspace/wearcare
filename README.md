@@ -1,5 +1,5 @@
 # WearCare - Make the smart watch more smarter with care
-WearCare is **personalized health care based reminder system** in a wearable.
+WearCare is **personalized healthcare based reminder system** in a wearable.
 <p align="center">
   <img src="https://github.com/sugumarworkspace/wearcare/blob/main/0_wearcare_logo.jpeg" width="256" title="Github Logo">
 </p>
