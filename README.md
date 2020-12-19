@@ -3,6 +3,7 @@ WearCare is a small start to integrate healthcare features into wearables.
 <p align="center">
   <img src="https://github.com/sugumarworkspace/wearcare/blob/main/0_wearcare_logo.jpeg" width="256" title="Github Logo">
 </p>
+
 # What is it?
 
 Health care is an essential part of everyday life for all. Our human body needs a periodic monitoring of health parameters and right treatments based on this data. Health care becomes more important when people reach a certain age and in that age following their health condition without proper guided assistance is becoming tedious.
@@ -57,8 +58,8 @@ Wearcare alert for walking and strectching based on your routines
 </p>
 
 # v1.1 [Next for wearcare]
+- Improve the prototype with integrating tech stacks
 - Healthcare domain APIs integration
-- Improve the prototype with real usecases and integrating tech stacks
 
 # v1.0
 Working prototype
